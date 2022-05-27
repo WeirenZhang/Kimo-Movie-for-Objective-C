@@ -1,1 +1,5 @@
 Objective-C 語言 parse 奇摩電影，所開發的 App 完整項目
+<br>
+<br>
+<br>
+<img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.24.40.png" width="300"/><img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.24.49.png" width="300"/><img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.25.03.png" width="300"/><img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.25.13.png" width="300"/><img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.25.18.png" width="300"/><img src="https://github.com/a22347328/Kimo-Movie-for-Objective-C/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202022-05-27%20at%2013.25.23.png" width="300"/>
