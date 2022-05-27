@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Xcode 4.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Area" representedClassName="Area" syncable="YES">
+        <attribute name="area_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="area_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="area_sort_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="Movie_favorites" representedClassName="Movie_favorites" syncable="YES">
+        <attribute name="movie_chinese_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_english_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="movie_image_url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_menu" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_release_date" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Movie_theater" representedClassName="Movie_theater" syncable="YES">
+        <attribute name="movie_theater_address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_theater_area_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="movie_theater_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="movie_theater_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_theater_tel" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="New_Movie_theater_favorites" representedClassName="New_Movie_theater_favorites" syncable="YES">
+        <attribute name="movie_theater_address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_theater_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="movie_theater_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_theater_tel" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Area" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="Movie_favorites" positionX="-45" positionY="45" width="128" height="135"/>
+        <element name="Movie_theater" positionX="-54" positionY="18" width="128" height="118"/>
+        <element name="New_Movie_theater_favorites" positionX="-54" positionY="36" width="128" height="105"/>
+    </elements>
+</model>
